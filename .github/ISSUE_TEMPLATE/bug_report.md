@@ -13,9 +13,6 @@ A clear and concise description of what the bug is.
 **To Reproduce**
 The GPU Screen Recorder command you ran or if you used the GUI version then describe which options you used.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
@@ -32,6 +29,7 @@ Attach a video that shows the issue (if applicable), in raw form as output by GP
 Which game did you run while recording (if any) and does the issue also happen if you only record your desktop?
 Does the issue also happen if you use obs studio instead with equivalent settings (video encoding settings and audio codec settings. Nvenc on nvidia and vaapi on amd/intel and same video/audio codec)?
 If you have an issue with audio make sure you are not using pulseaudio/pipewire audio processing software such as EasyEffects.
+If you are setting any amd/intel/nvidia/mesa/vaapi/pulseaudio/pipewire environment variables then please list those.
 
 - [ ] I played the video with the command `mpv --no-config video.mp4` (if applicable)
 - [ ] I use a laptop with an integrated GPU and a dedicated GPU
