@@ -21,7 +21,7 @@ If applicable, add screenshots to help explain your problem.
 - Desktop environment/Window Manager:
  - Distro:
  - GPU:
- - Version: (latest flatpak version, aur or source)
+ - Version (latest flatpak version, aur or source):
 
 **Additional context**
 Add any other context about the problem here, such as terminal output of running GPU Screen Recorder and if there was an issue in the video then run the command `sudo drm_info > log.txt` and attach that log.txt file in this bug report. drm_info can be installed from your package manager or from https://gitlab.freedesktop.org/emersion/drm_info.
