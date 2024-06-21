@@ -24,7 +24,7 @@ If applicable, add screenshots to help explain your problem.
  - Version (latest flatpak version, aur or source):
 
 **Additional context**
-Add any other context about the problem here, such as terminal output of running GPU Screen Recorder and if the isn't isn't related to audio then please run `sudo drm_info > log.txt` and attach that log.txt file in this bug report. drm_info can be installed from your package manager or from https://gitlab.freedesktop.org/emersion/drm_info.
+Add any other context about the problem here, such as terminal output of running GPU Screen Recorder and if the issue isn't related to audio then please run `sudo drm_info > log.txt` and attach that log.txt file in this bug report. drm_info can be installed from your package manager or from https://gitlab.freedesktop.org/emersion/drm_info.
 Attach a video that shows the issue (if applicable), in raw form as output by GPU Screen Recorder or a losslessly cut version of it (you can use https://flathub.org/apps/org.gnome.gitlab.YaLTeR.VideoTrimmer for example to do this).
 Which game did you run while recording (if any) and does the issue also happen if you only record your desktop?
 Does the issue also happen if you use obs studio instead with equivalent settings (video encoding settings and audio codec settings. Nvenc on nvidia and vaapi on amd/intel and same video/audio codec)?
