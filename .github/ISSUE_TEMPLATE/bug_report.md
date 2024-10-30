@@ -11,7 +11,7 @@ assignees: dec05eba
 A clear and concise description of what the bug is.
 
 **To Reproduce**
-The GPU Screen Recorder command you ran or if you used the GUI version then describe which options you used.
+The GPU Screen Recorder command you ran or if you used the GUI version then take a screenshot of the settings you used and post the screenshot here.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
