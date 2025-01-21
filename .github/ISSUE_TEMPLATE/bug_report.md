@@ -33,3 +33,4 @@ If you are setting any amd/intel/nvidia/mesa/vaapi/pulseaudio/pipewire environme
 
 - [ ] I played the video with the command `mpv --no-config video.mp4` (if applicable)
 - [ ] I use a laptop with an integrated GPU and a dedicated GPU
+- [ ] I have confirmed that this is a bug (questions should be emailed to dec05eba at protonmail dot com)
